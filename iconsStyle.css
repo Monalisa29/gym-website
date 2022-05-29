@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+
+.social-iconFb{
+	color: orange;
+	transition: color 0.2s;
+}
+
+.social-iconFb:hover{
+	color: #794513;
+}
